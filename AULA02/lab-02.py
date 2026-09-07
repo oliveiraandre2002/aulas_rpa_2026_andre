@@ -13,5 +13,3 @@ for transacao in transacoes:
         break
 
     print(f"[SUCESSO] Transação de R$ {transacao:.2f} processada.")
-    
-    
