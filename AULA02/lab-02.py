@@ -1,4 +1,4 @@
-#validador_transacoes.py
+# validador_transacoes.py
 
 transacoes = [150.0, 3200.5, 12500.0, 450.0, -50.0, 800.0, 0]
 
@@ -13,3 +13,5 @@ for transacao in transacoes:
         break
 
     print(f"[SUCESSO] Transação de R$ {transacao:.2f} processada.")
+    
+    
